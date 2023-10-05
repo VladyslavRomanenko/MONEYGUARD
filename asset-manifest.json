@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/MONEYGUARD/static/css/main.35bc194d.css",
+    "main.js": "/MONEYGUARD/static/js/main.1795b920.js",
+    "static/css/942.00089189.chunk.css": "/MONEYGUARD/static/css/942.00089189.chunk.css",
+    "static/js/942.f0123cf6.chunk.js": "/MONEYGUARD/static/js/942.f0123cf6.chunk.js",
+    "static/css/389.a986cab3.chunk.css": "/MONEYGUARD/static/css/389.a986cab3.chunk.css",
+    "static/js/389.84617884.chunk.js": "/MONEYGUARD/static/js/389.84617884.chunk.js",
+    "static/js/977.26f27bd9.chunk.js": "/MONEYGUARD/static/js/977.26f27bd9.chunk.js",
+    "static/js/623.bde53c92.chunk.js": "/MONEYGUARD/static/js/623.bde53c92.chunk.js",
+    "static/media/dollar-2x-tab.png": "/MONEYGUARD/static/media/dollar-2x-tab.cf6e2957fc772f432371.png",
+    "static/media/dollar-1x-tab.png": "/MONEYGUARD/static/media/dollar-1x-tab.a250c46083136b680807.png",
+    "static/media/dollar-1x-right.png": "/MONEYGUARD/static/media/dollar-1x-right.82c3bc673f462f6a3c93.png",
+    "static/media/dollar-1x-left.png": "/MONEYGUARD/static/media/dollar-1x-left.08cc85bfbaa7d20881d0.png",
+    "static/media/money-2x-left.png": "/MONEYGUARD/static/media/money-2x-left.df8cc6e1b130b0bf07e3.png",
+    "static/media/money-2x-right.png": "/MONEYGUARD/static/media/money-2x-right.d04732429c8846301a59.png",
+    "static/media/money-2x-tab-left.png": "/MONEYGUARD/static/media/money-2x-tab-left.a637a7996b92a4ca1d6f.png",
+    "static/media/money-2x-tab-right.png": "/MONEYGUARD/static/media/money-2x-tab-right.0c977a2b8cb91726d438.png",
+    "static/media/Poppins-Regular.ttf": "/MONEYGUARD/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/MONEYGUARD/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/MONEYGUARD/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "/MONEYGUARD/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/money-1x-left.png": "/MONEYGUARD/static/media/money-1x-left.1140926d3bea03cef0d3.png",
+    "static/media/money-1x-right.png": "/MONEYGUARD/static/media/money-1x-right.cc55e00b04c9063f42c6.png",
+    "static/media/money-1x-tab-left.png": "/MONEYGUARD/static/media/money-1x-tab-left.26d4dd98cc14eb79e75e.png",
+    "static/media/money-1x-tab-right.png": "/MONEYGUARD/static/media/money-1x-tab-right.8679793d9f9b873e3313.png",
+    "static/media/sprite.svg": "/MONEYGUARD/static/media/sprite.96d254ee9a0f326f8b0477924ed34252.svg",
+    "static/media/Diagram-currency-1.png": "/MONEYGUARD/static/media/Diagram-currency-1.6f0cffb78f4a518204b7.png",
+    "index.html": "/MONEYGUARD/index.html",
+    "main.35bc194d.css.map": "/MONEYGUARD/static/css/main.35bc194d.css.map",
+    "main.1795b920.js.map": "/MONEYGUARD/static/js/main.1795b920.js.map",
+    "942.00089189.chunk.css.map": "/MONEYGUARD/static/css/942.00089189.chunk.css.map",
+    "942.f0123cf6.chunk.js.map": "/MONEYGUARD/static/js/942.f0123cf6.chunk.js.map",
+    "389.a986cab3.chunk.css.map": "/MONEYGUARD/static/css/389.a986cab3.chunk.css.map",
+    "389.84617884.chunk.js.map": "/MONEYGUARD/static/js/389.84617884.chunk.js.map",
+    "977.26f27bd9.chunk.js.map": "/MONEYGUARD/static/js/977.26f27bd9.chunk.js.map",
+    "623.bde53c92.chunk.js.map": "/MONEYGUARD/static/js/623.bde53c92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35bc194d.css",
+    "static/js/main.1795b920.js"
+  ]
+}
