@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MONEYGUARD/static/css/main.35bc194d.css",
-    "main.js": "/MONEYGUARD/static/js/main.1795b920.js",
+    "main.js": "/MONEYGUARD/static/js/main.2e29ea2a.js",
     "static/css/942.00089189.chunk.css": "/MONEYGUARD/static/css/942.00089189.chunk.css",
     "static/js/942.f0123cf6.chunk.js": "/MONEYGUARD/static/js/942.f0123cf6.chunk.js",
     "static/css/389.a986cab3.chunk.css": "/MONEYGUARD/static/css/389.a986cab3.chunk.css",
@@ -28,7 +28,7 @@
     "static/media/Diagram-currency-1.png": "/MONEYGUARD/static/media/Diagram-currency-1.6f0cffb78f4a518204b7.png",
     "index.html": "/MONEYGUARD/index.html",
     "main.35bc194d.css.map": "/MONEYGUARD/static/css/main.35bc194d.css.map",
-    "main.1795b920.js.map": "/MONEYGUARD/static/js/main.1795b920.js.map",
+    "main.2e29ea2a.js.map": "/MONEYGUARD/static/js/main.2e29ea2a.js.map",
     "942.00089189.chunk.css.map": "/MONEYGUARD/static/css/942.00089189.chunk.css.map",
     "942.f0123cf6.chunk.js.map": "/MONEYGUARD/static/js/942.f0123cf6.chunk.js.map",
     "389.a986cab3.chunk.css.map": "/MONEYGUARD/static/css/389.a986cab3.chunk.css.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.35bc194d.css",
-    "static/js/main.1795b920.js"
+    "static/js/main.2e29ea2a.js"
   ]
 }
