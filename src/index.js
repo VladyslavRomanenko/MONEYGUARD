@@ -11,11 +11,11 @@ import { persistor, store } from 'redux/store';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   // <React.StrictMode>
-  <BrowserRouter basename="/RiverSoft">
+  <BrowserRouter basename="/MONEYGUARD">
     <Provider store={store}>
       <PersistGate persistor={persistor}>
         <App />
-        <ToastContainer autoClose="2000" theme='dark' />
+        <ToastContainer autoClose="2000" theme="dark" />
       </PersistGate>
     </Provider>
   </BrowserRouter>
